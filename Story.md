@@ -1,0 +1,1 @@
+A blockchain for managing intellectual property ([[IP]])

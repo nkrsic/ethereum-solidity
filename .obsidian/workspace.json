@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "221664bc60872492",
+        "id": "0fc0f09ce225e557",
         "type": "tabs",
         "children": [
           {
-            "id": "93d6e189c40acaa8",
+            "id": "55d0c8c14acab8e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Safe (platform).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "080f9bccfb65ff5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Safe (platform).md",
+                "file": "ERC-2771.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Safe (platform).md",
+                "file": "ERC-2771.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Safe (platform).md",
+                "file": "ERC-2771.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Safe (platform).md"
+                "file": "ERC-2771.md"
               }
             }
           }
@@ -159,12 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "080f9bccfb65ff5f",
+  "active": "55d0c8c14acab8e5",
   "lastOpenFiles": [
-    "Gnosis Safe.md",
-    "Safe (platform).md",
-    "ERC-4337.md",
-    "ERC-6900.md",
-    "Welcome.md"
+    "ERC-2771.md",
+    "Chains/Dogecoin.md",
+    "Chains/Dogechain.md",
+    "tenderly.co.md",
+    "bubblemaps.io.md",
+    "Categories/Forensics.md",
+    "ERC-165.md",
+    "interface.md",
+    "Untitled.md",
+    "Movement.md",
+    "IP.md",
+    "Story.md",
+    "Optimism.md",
+    "Sony.md",
+    "OP Stack.md",
+    "Soneium.md",
+    "Startale Labs.md",
+    "Astar ZkEVM.md",
+    "Drosera (Platform).md",
+    "Chains/Osmosis.md",
+    "Chains/Injective.md",
+    "Chains/Sonic.md",
+    "Chains/Binance Smart Chain.md",
+    "Chains/Fantom Opera.md",
+    "Chains/Rootstock.md",
+    "Chains/Polygon PoS.md",
+    "Chains",
+    "Categories"
   ]
 }
